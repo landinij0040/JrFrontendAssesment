@@ -1,0 +1,5 @@
+Excercise 1:
+For Excercise 1 I made a simple staff page using mainly
+div elements to organize the page. I used flex box to align
+all the staffing cards. I used spans to style the information
+in the staffing cards.
