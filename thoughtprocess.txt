@@ -3,3 +3,10 @@ For Excercise 1 I made a simple staff page using mainly
 div elements to organize the page. I used flex box to align
 all the staffing cards. I used spans to style the information
 in the staffing cards.
+
+Excercise 3:
+For Excercise 3 I made a simple nav with the required constraints. 
+I used Jquery to make the drop down show the required information 
+when clicked on and not show the required information when hovered off.
+I used css to style the nav bar and turn the nav items a different color 
+when hovered over.
