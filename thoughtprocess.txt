@@ -4,6 +4,14 @@ div elements to organize the page. I used flex box to align
 all the staffing cards. I used spans to style the information
 in the staffing cards.
 
+
+Excercise 2:
+For Excercise 2 I made a simple moving slide using vanilla JavaScript 
+and css. I used css to style images and the font to be on top of the image.
+I used JavaScript to change the slide. I used gimp to help make the picture 
+assets look better so the images do not look squashed when the css changes
+the dimensions of the image.
+
 Excercise 3:
 For Excercise 3 I made a simple nav with the required constraints. 
 I used Jquery to make the drop down show the required information 
