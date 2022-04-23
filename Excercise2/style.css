@@ -1,0 +1,27 @@
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    /* position: absolute; */
+    /* text-align: center; */
+    /* left:0; */
+    /* right:0; */
+    /* transform: translateY(-50%); */
+    /* margin:auto; */
+}
+
+/* .centered-axis-xy {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+} */
+.slide{
+    color: white;
+    position: relative;
+}
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+  }
